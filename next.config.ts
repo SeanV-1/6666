@@ -1,11 +1,15 @@
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
+/** @type {import('next').NextConfig} */
+const nextConfig = {
   output: 'export',
+  basePath: '/6666',
+  assetPrefix: '/6666/',
   images: {
     unoptimized: true,
   },
-  reactCompiler: true,
-};
+}
 
-export default nextConfig;
+module.exports = nextConfig
+
+export default nextConfig;                
