@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[93983,["/6666/_next/static/chunks/3c26884bd1930ef5.js","/6666/_next/static/chunks/7a0ddb3684d8fe1c.js","/6666/_next/static/chunks/536e1f5ed291078b.js","/6666/_next/static/chunks/6a491e9ea78151a7.js","/6666/_next/static/chunks/d202d533fd30ccf1.js","/6666/_next/static/chunks/2abf1d19458e830f.js"],"Header"]
+3:I[97367,["/6666/_next/static/chunks/ff1a16fafef87110.js","/6666/_next/static/chunks/6153d1a363729c2c.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"dkjCha4VrMAmUn0fRCCOD","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L2",null,{"title":"Statistics"}],["$","div",null,{"className":"flex-1 flex items-center justify-center text-muted-foreground","children":"Statistics Dashboard Coming Soon"}]]}],[["$","script","script-0",{"src":"/6666/_next/static/chunks/2abf1d19458e830f.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
